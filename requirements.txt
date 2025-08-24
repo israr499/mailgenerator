@@ -2,6 +2,6 @@ streamlit
 python-dotenv
 google-generativeai
 firebase-admin
+pyrebase4
 PyPDF2
 python-docx
-git+https://github.com/nhorvath/Pyrebase4.git
