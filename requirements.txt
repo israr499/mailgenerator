@@ -1,5 +1,7 @@
 streamlit
-pyrebase4
-firebase-admin
 python-dotenv
 google-generativeai
+firebase-admin
+pyrebase4
+PyPDF2
+python-docx
